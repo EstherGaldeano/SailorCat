@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fondo_Sailor_Cat_NOBI_DIA_0: -3001655465570044781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fondo_Sailor_Cat1_NO_BI2_0: -5376765322750935578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
